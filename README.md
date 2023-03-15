@@ -1,6 +1,6 @@
-# HTML-ODEV2
+# HTML-ODEV1
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End içerisindeki, HTML eğitiminde oluşturduğumuz ikinc repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End içerisindeki, HTML eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
 ## License
